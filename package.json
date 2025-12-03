@@ -1,6 +1,6 @@
 {
     "name": "sync-json-database",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Helps manage simple JSON files meant for configuration or small databases. Fork of Androz2091's Easy JSON Database.",
     "main": "index.js",
     "repository": {
