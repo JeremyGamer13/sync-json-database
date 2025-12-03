@@ -19,5 +19,6 @@
         "db"
     ],
     "license": "MIT",
+    "readme": "README.md",
     "types": "./index.d.ts"
 }
