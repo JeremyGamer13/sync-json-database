@@ -6,7 +6,7 @@ const instances = {};
 
 class Database {
     /**
-     * @typedef {object} SnapshotOptions
+     * @typedef {object} SnapshotsOptions
      * @property {boolean} [enabled=false] Whether or not snapshots are enabled
      * @property {number} interval The interval in milliseconds between each snapshot
      * @property {string} path The folder path of the backups
@@ -18,7 +18,7 @@ class Database {
      * @typedef {object} DatabaseOptions
      * @property {boolean?} forceNew
      * @property {boolean?} indented
-     * @property {SnapshotOptions?} snapshots
+     * @property {SnapshotsOptions?} snapshots
      */
 
     /**
